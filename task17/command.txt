@@ -1,0 +1,1 @@
+http://37.27.12.106:31933/check-ingress

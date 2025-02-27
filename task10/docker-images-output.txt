@@ -1,0 +1,4 @@
+REPOSITORY            TAG               IMAGE ID       CREATED          SIZE
+farrukhit/flask-app   v1                1658214b0056   35 minutes ago   67.2MB
+flask-app             v1                1658214b0056   35 minutes ago   67.2MB
+moby/buildkit         buildx-stable-1   f210b5f94e18   7 days ago       209MB

@@ -1,0 +1,2 @@
+NAME           ENDPOINTS                              AGE
+flask-app-v1   10.233.66.186:5000,10.233.67.69:5000   15m

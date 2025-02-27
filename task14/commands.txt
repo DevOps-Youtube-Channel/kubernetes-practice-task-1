@@ -1,0 +1,5 @@
+kubectl expose deployment flask-app-v1 --port 6234 --target-port 5000 --type ClusterIP -n f-sadatov --name=cluster-ip-service
+
+kubectl -n f-sadatov exec -it nginx-latest-9d75887c9-sl7b6 -- /bin/bash
+
+curl 10.233.15.195:6234/practice

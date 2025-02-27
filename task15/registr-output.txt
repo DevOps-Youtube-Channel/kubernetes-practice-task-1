@@ -1,0 +1,2 @@
+curl http://reg-ingress.sts404.uz/?domain=f-sadatov.sts404.uz
+{"status": "success", "domain": "f-sadatov.sts404.uz"}

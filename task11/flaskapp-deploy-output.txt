@@ -1,0 +1,4 @@
+NAME           READY   UP-TO-DATE   AVAILABLE   AGE
+flask-app-v1   2/2     2            2           11m
+hr-app         2/2     2            2           19h
+nginx-latest   1/1     1            1           53m

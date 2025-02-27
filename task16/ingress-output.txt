@@ -1,0 +1,5 @@
+http://f-sadatov.sts404.uz/check-ingress
+
+
+
+{"domain":"f-sadatov.sts404.uz","endpoint":"/check-ingress","full_path:":"f-sadatov.sts404.uz/check-ingress"}
