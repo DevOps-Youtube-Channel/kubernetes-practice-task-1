@@ -1,0 +1,14 @@
+NAME              STATUS   AGE
+a-nabixojayev     Active   112s
+default           Active   9d
+f-sadatov         Active   3h38m
+ingress-nginx     Active   46h
+kube-node-lease   Active   9d
+kube-public       Active   9d
+kube-system       Active   9d
+m-shukurjonov     Active   28h
+o-toshev          Active   20h
+r-shokirov        Active   7m25s
+special           Active   5d3h
+x-umarov          Active   27h
+z-abduvohidov     Active   6m7s
